@@ -6,9 +6,9 @@ from slack_bolt.adapter.socket_mode import SocketModeHandler
 
 
 
-BOTTKN  = "xoxb-YOUR-BOT-TOKEN"
-SLACKTKN = "xapp-YOUR-APP-TOKEN"
-CHNLID = "C0XXXXXX" 
+BOTTKN  = "bot token"
+SLACKTKN = "app token"
+CHNLID = "codigo" 
 FILEPATH = r"path"
 
 
