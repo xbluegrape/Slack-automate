@@ -14,7 +14,7 @@ Este bot automatiza la captura de mensajes importantes (como notificaciones de s
 
 ### 1. Obtener Credenciales de Slack
 Necesitas tus credenciales (`Bot Token`, `App Token`, `Channel ID`).
-👉 **[Ver Guía Paso a Paso (PowerPoint)](./Guia_Setup_Slack.pptx)**
+👉 **[Ver Guía Paso a Paso (PowerPoint)]**
 
 Abre el archivo `salary_bot.py` con un editor de texto y actualiza esta sección con tus datos:
 
