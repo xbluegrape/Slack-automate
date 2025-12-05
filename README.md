@@ -19,9 +19,13 @@ Necesitas tus credenciales (`Bot Token`, `App Token`, `Channel ID`).
 Abre el archivo `salary_bot.py` con un editor de texto y actualiza esta sección con tus datos:
 
 BOTTKN  = "bot token"
+
 APPTKN = "app token"
+
 CHNLID = "codigo" 
+
 FILEPATH = r"el path donde guardaste tu excel"
+
 
 
 Nota: Asegúrate de que FILEPATH sea la ruta correcta en tu PC.
